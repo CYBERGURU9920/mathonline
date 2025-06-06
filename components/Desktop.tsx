@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState } from "react";
-import { ScrollArea } from "./ui/scroll-area";
 import { MainContentSection } from "./MainContentSection";
 import { SecondaryNavigationSection } from "./SecondaryNavigationSection";
 
