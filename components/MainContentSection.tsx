@@ -7,7 +7,7 @@ import { Card, CardContent } from "./card_responsive";
 import { Separator } from "./ui/separator";
 import { chaptersData } from "@/app/data/chapters";
 import { ChapterData } from "@/app/types";
-import WeakChapters from './ui/WeakChapters';
+
 
 interface MainContentSectionProps {
   activeSubject: string;
